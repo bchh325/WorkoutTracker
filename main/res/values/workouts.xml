@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="workouts">Test</string>
+    <string-array name="workoutslist">
+        <item>SELECT</item>
+        <item>Bench Press</item>
+        <item>Deadlift</item>
+        <item>Squat</item>
+        <item>Standing OHP</item>
+        <item>DB Shoulder Press</item>
+        <item>Cable Lateral Raise</item>
+        <item>Incline DB Press</item>
+        <item>Lat Pulldown</item>
+        <item>Cable Row</item>
+        <item>Cable Tricep Extensions</item>
+        <item>Standing OHP</item>
+        <item>DB Curls</item>
+        <item>Cable Curls</item>
+        <item>Face Pulls</item>
+    </string-array>
+</resources>
